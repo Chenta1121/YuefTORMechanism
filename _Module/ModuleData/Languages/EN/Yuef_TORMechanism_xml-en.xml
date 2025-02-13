@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="English"/>
+	</tags>
+	<strings>
+		<string id="YueF_Mechanism_Name" text="Warhammer: Mechanism Adjustment"/>
+		<string id="Yuef_CursedSite_Title" text="Cursed Site Mechanism Adjustment"/>
+		<string id="Yuef_CursedSite_Hint" text="Enabling this will replace the original TOR health deduction injury mechanism with a speed reduction within the Cursed Site area."/>
+		<string id="Yuef_Castle_Title" text="Castle Mechanism Adjustment"/>
+		<string id="Yuef_Castle_Hint" text="Enabling this will add a mechanism to the castle: when the team is hostile to a nearby castle, they will suffer a movement speed penalty; otherwise, they will receive a movement speed bonus."/>
+		<string id="Yuef_BattleReward_Title" text="Post-battle Captive Mechanism Adjustment"/>
+		<string id="Yuef_BattleReward_Hint" text="Enabling this will restore the mechanism for saving captives."/>
+		<string id="Yuef_Treeman_Title" text="AI Treeman Recruitment Adjustment"/>
+		<string id="Yuef_Treeman_Hint" text="Enabling this will strengthen the recruitment mechanism of the Wood Elf culture. When the AI is in the Wood Elf Forest, there will be a higher chance of receiving Treeman aid."/>
+	</strings>
+</base>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="简体中文"/>
+	</tags>
+	<strings>
+		<string id="YueF_Mechanism_Name" text="中古战锤:机制调整"/>
+		<string id="Yuef_CursedSite_Title" text="诅咒之地机制调整"/>
+		<string id="Yuef_CursedSite_Hint" text="启用后会替换原版TOR的扣血受伤机制,更改为在诅咒之地范围内减速"/>
+		<string id="Yuef_Castle_Title" text="城堡机制调整"/>
+		<string id="Yuef_Castle_Hint" text="启用后对城堡添加机制: 当队伍与附近的城堡所属为敌对时会受到移速惩罚,反之则会获得移速奖励"/>
+		<string id="Yuef_BattleReward_Title" text="战后俘虏机制调整"/>
+		<string id="Yuef_BattleReward_Hint" text="启用后会恢复拯救俘虏的机制"/>
+		<string id="Yuef_Treeman_Title" text="AI树人招募调整"/>
+		<string id="Yuef_Treeman_Hint" text="启用后会强化木精文化的招募机制,当AI位于木精森林时将有更高的概率获得树人的援助"/>
+	</strings>
+</base>
